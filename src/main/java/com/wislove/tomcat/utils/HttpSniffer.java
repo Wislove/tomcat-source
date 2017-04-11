@@ -1,4 +1,4 @@
-package com.wislove.learn.tomcat.utils;
+package com.wislove.tomcat.utils;
 
 import javax.swing.*;
 import java.awt.*;
